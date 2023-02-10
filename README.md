@@ -1,1 +1,1 @@
-readme shell bascis
+Working in Shell,basics project
